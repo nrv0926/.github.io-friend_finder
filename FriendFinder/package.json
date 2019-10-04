@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "a web app that helps you find friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nrv0926/.github.io-friend_finder.git"
+  },
+  "author": "nicolas vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrv0926/.github.io-friend_finder/issues"
+  },
+  "homepage": "https://github.com/nrv0926/.github.io-friend_finder#readme"
+}
