@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/nrv0926/.github.io-friend_finder/issues"
   },
-  "homepage": "https://github.com/nrv0926/.github.io-friend_finder#readme"
+  "homepage": "https://github.com/nrv0926/.github.io-friend_finder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  }
 }
